@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4cf16f7a-2794-4648-b74b-256dc25cfd2d">
+  <producedTypes>
+    <refType typeId="a36dc711-7a65-404e-8914-9edf5dfdb12e" valueTypeId="f76257e8-b4b9-4cae-881a-5d25d60a3d46"/>
+    <listType typeId="cb7791e2-8c02-494e-b294-2b06228e8f9c" valueTypeId="2d53e62b-c3a9-4093-b5bd-9346aab041bb"/>
+    <managerType typeId="bd61d329-dd3c-4d33-a795-e4819bf31ed6" valueTypeId="e0a51fbc-af34-4b9d-a8ba-d206d5d7005a"/>
+  </producedTypes>
+  <name>ВКМ_СпособРасчета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Способ расчета</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="89546f56-8ed9-4560-9495-c067cf7bc583">
+    <name>Оклад</name>
+    <synonym>
+      <key>ru</key>
+      <value>Оклад</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="63b266f7-d599-4fba-9a50-41141a21d932">
+    <name>ПроцентОтРабот</name>
+    <synonym>
+      <key>ru</key>
+      <value>Процент от работ</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="e32cab8f-e3b9-4e1e-a041-cdfe0e991521">
+    <name>Премия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Премия</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="e7eada99-27e1-4926-b803-708b6f403825">
+    <name>Отпуск</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отпуск</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

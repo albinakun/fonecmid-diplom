@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planner:PlannerSettings xmlns:planner="http://g5.1c.ru/v8/dt/planner/model">
+  <alignItemBoundariesByTimeScale>true</alignItemBoundariesByTimeScale>
+  <showWrappedHeaders>true</showWrappedHeaders>
+  <showWrappedTimeScaleHeaders>true</showWrappedTimeScaleHeaders>
+  <showCurrentDate>true</showCurrentDate>
+  <wrappedTimeScaleHeaderFormat>
+    <key>#</key>
+    <value>DLF=&quot;DD&quot;</value>
+  </wrappedTimeScaleHeaderFormat>
+  <wrappedTimeScaleHeaderFormat>
+    <key>ru</key>
+    <value>DLF=&quot;DD&quot;</value>
+  </wrappedTimeScaleHeaderFormat>
+  <periodicVariantRepetition>1</periodicVariantRepetition>
+  <periodicVariantUnit>Day</periodicVariantUnit>
+  <timeScale/>
+</planner:PlannerSettings>

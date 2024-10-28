@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="34e853f6-a0dc-4421-acf1-d5c08dcbf7d3">
+  <producedTypes>
+    <managerType typeId="684a0be4-c788-4fcf-86c2-06308e54d689" valueTypeId="2a2e0ab4-e108-4dd8-afd6-7f3c8b955ab9"/>
+    <valueManagerType typeId="0f1c6492-8532-4e2a-a939-279b7a210d9f" valueTypeId="a62111e7-c2ac-4c2d-a723-fa8e74c12579"/>
+    <valueKeyType typeId="ac338ce3-3fb1-446a-8ed4-be96d5bb2b25" valueTypeId="71480fa6-9635-4b7a-ad01-42164a1b42d6"/>
+  </producedTypes>
+  <name>ВКМ_ФиксированнаяПремия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Фиксированная премия</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>10</precision>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
